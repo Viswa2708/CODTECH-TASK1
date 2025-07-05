@@ -10,7 +10,9 @@ Duration: June to July 2025
 
 Mentor: Vaishali
 
-OVERVIEW OF THE PROJECT
+
+
+## OVERVIEW OF THE PROJECT
 
 This is a simple, responsive portfolio website built using HTML, CSS, and JavaScript.  
 It showcases a developer's profile, skills, projects, and contact information.
