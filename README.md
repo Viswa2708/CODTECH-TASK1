@@ -1,8 +1,13 @@
 Name: VISWA V
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT04DG3413
+
 Domain: SOFTWARE DEVELOPMENT
+
 Duration: June to July 2025
+
 Mentor: Vaishali
 
 OVERVIEW OF THE PROJECT
